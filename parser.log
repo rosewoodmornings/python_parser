@@ -1,0 +1,86 @@
+2025-04-13 13:17:30,757 - INFO - Начало работы парсера
+2025-04-13 13:17:30,758 - INFO - Обработка категории: https://www.zveromir.ru/shop/perenoski_dlya_sobak/
+2025-04-13 13:17:31,059 - INFO - Категория: Переноски и клетки для собак, страниц: 1
+2025-04-13 13:17:31,060 - INFO - Обработка страницы 1 из 1 для категории Переноски и клетки для собак
+2025-04-13 13:17:31,061 - INFO - Обработка страницы категории: https://www.zveromir.ru/shop/perenoski_dlya_sobak/
+2025-04-13 13:17:31,327 - INFO - Найдено 7 товаров на странице 1 категории
+2025-04-13 13:17:31,327 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/744-perenoska-dlya-sobak-mps-skudo-1/
+2025-04-13 13:17:31,526 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/745-perenoska-dlya-sobak-mps-skudo-2/
+2025-04-13 13:17:31,736 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/746-perenoska-dlya-sobak-mps-skudo-3/
+2025-04-13 13:17:31,959 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/747-perenoska-dlya-sobak-mps-skudo-4/
+2025-04-13 13:17:32,169 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/748-perenoska-dlya-sobak-mps-skudo-5/
+2025-04-13 13:17:32,423 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/749-perenoska-dlya-sobak-mps-skudo-6/
+2025-04-13 13:17:32,733 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/750-perenoska-dlya-sobak-mps-skudo-7/
+2025-04-13 13:17:33,018 - INFO - Обработка категории: https://www.zveromir.ru/shop/suhoy_korm_dlya_koshek/
+2025-04-13 13:17:33,399 - INFO - Категория: Сухой корм для кошек, страниц: 4
+2025-04-13 13:17:33,400 - INFO - Обработка страницы 1 из 4 для категории Сухой корм для кошек
+2025-04-13 13:17:33,401 - INFO - Обработка страницы категории: https://www.zveromir.ru/shop/suhoy_korm_dlya_koshek/
+2025-04-13 13:17:33,758 - INFO - Найдено 16 товаров на странице 1 категории
+2025-04-13 13:17:33,760 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1012-alleva-holistic-chicken-duck-neutered-adult-cat/
+2025-04-13 13:17:34,022 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1011-alleva-holistic-lamb-venison-adult-cat/
+2025-04-13 13:17:34,359 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1360-alleva-care-cat-adult-renal-antiox/
+2025-04-13 13:17:34,598 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/602-blitz-for-adult-cats-lamb/
+2025-04-13 13:17:34,895 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1386-beautiful-hair-skin-turkey-seaweed-indejka-s-morskimi-vodoroslyami/
+2025-04-13 13:17:35,113 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1397-xolistik-premer-dlya-kastrirovannyx-i-sterilizovannyx-koshek-s-govyadinoj/
+2025-04-13 13:17:35,335 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1331-alphapet-superpremium-monoprotein-turkey-for-cat/
+2025-04-13 13:17:35,599 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1260-best-dinner-holistic-hypoallergenic-adult-cat-veal-oregano/
+2025-04-13 13:17:35,887 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1009-alleva-holistic-chicken-duck-adult-cat/
+2025-04-13 13:17:36,093 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1010-alleva-holistic-ocean-fish-adult-cat/
+2025-04-13 13:17:36,329 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1361-alleva-care-cat-adult-urinary-360/
+2025-04-13 13:17:36,533 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/665-blitz-sterilised-sat-turkey/
+2025-04-13 13:17:36,792 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1387-adult-cat-duck-rosehip-dlya-vzroslyx-koshek-utka-s-shipovnikom/
+2025-04-13 13:17:37,040 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1398-xolistik-premer-dlya-kastrirovannyx-i-sterilizovannyx-koshek-c-lososem/
+2025-04-13 13:17:37,285 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/834-grandorf-lamb-rice-kitten/
+2025-04-13 13:17:37,629 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1327-alphapet-superpremium-monoprotein-white-fish-for-cat/
+2025-04-13 13:17:37,969 - INFO - Обработка страницы 2 из 4 для категории Сухой корм для кошек
+2025-04-13 13:17:37,970 - INFO - Обработка страницы категории: https://www.zveromir.ru/shop/suhoy_korm_dlya_koshek/page/2/
+2025-04-13 13:17:38,324 - INFO - Найдено 16 товаров на странице 2 категории
+2025-04-13 13:17:38,325 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1272-best-dinner-holistic-hypoallergenic-adult-sterilised-cat-lamb-basil/
+2025-04-13 13:17:38,564 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1008-alleva-holistic-chicken-duck-kitten/
+2025-04-13 13:17:38,775 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1362-alleva-care-cat-gastrointestinal-low-fat/
+2025-04-13 13:17:38,979 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/600-blitz-for-adult-cats-turkey/
+2025-04-13 13:17:39,219 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1388-adult-cat-turkey-salmon-apples-indejka-losos-s-yablokom/
+2025-04-13 13:17:39,738 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1399-xolistik-premer-dlya-kastrirovannyx-i-sterilizovannyx-koshek-c-utkoj/
+2025-04-13 13:17:39,997 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/835-grandorf-lamb-rice-adult-cat/
+2025-04-13 13:17:40,247 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1324-alphapet-superpremium-sterilised-duck-with-turkey/
+2025-04-13 13:17:40,469 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1238-alleva-equilibrium-sensitive-venison-dlya-koshek-na-olenine/
+2025-04-13 13:17:40,683 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1239-alleva-equilibrium-sensitive-duck-dlya-koshek-na-utke/
+2025-04-13 13:17:40,913 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1363-alleva-care-cat-obesity-glycaemic-control/
+2025-04-13 13:17:41,172 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/601-blitz-for-adult-cats-chicken/
+2025-04-13 13:17:41,431 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1389-adult-cat-max-turkey-indejka-s-glyukozaminom-i-xondroitinom/
+2025-04-13 13:17:41,690 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1400-xolistik-premer-korm-dlya-koshek-s-chuvstvitelnym-pishhevareniem-na-indejke/
+2025-04-13 13:17:41,942 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1325-alphapet-superpremium-steriiesed-lamb-with-turkey/
+2025-04-13 13:17:42,196 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1240-alleva-equilibrium-sensitive-rabbit-dlya-koshek-na-krolike/
+2025-04-13 13:17:42,402 - INFO - Обработка страницы 3 из 4 для категории Сухой корм для кошек
+2025-04-13 13:17:42,403 - INFO - Обработка страницы категории: https://www.zveromir.ru/shop/suhoy_korm_dlya_koshek/page/3/
+2025-04-13 13:17:42,684 - INFO - Найдено 16 товаров на странице 3 категории
+2025-04-13 13:17:42,684 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1186-blitz-sterilised-sat-chicken/
+2025-04-13 13:17:42,885 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1392-sterilized-cat-chicken-lingonberry-dlya-sterilizovannyx-koshek-czyplenok-s-brusnikoj/
+2025-04-13 13:17:43,101 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1401-xolistik-premer-polnoraczionnyj-suxoj-korm-dlya-kotyat-s-kuriczej/
+2025-04-13 13:17:43,327 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/837-grandorf-wite-fish-brown-rise-adult-cat/
+2025-04-13 13:17:43,537 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1237-alleva-equilibrium-kitten-dlya-kotyat-beremennyx-i-kormyashhix-koshek-na-kuricze/
+2025-04-13 13:17:43,812 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1242-alleva-equilibrium-sterilized-fish-dlya-sterilizovannyx-kotov-i-koshek-na-rybe/
+2025-04-13 13:17:44,030 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1265-blitz-sensitive-beef-adult-cats-all-breeds/
+2025-04-13 13:17:44,266 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1395-kitten-lamb-wild-berries-dlya-kotyat-s-yagnenkom-i-lesnymi-yagodami/
+2025-04-13 13:17:44,507 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1402-xolistik-premer-korm-dlya-podderzhki-immuniteta-koshek-s-govyadinoj/
+2025-04-13 13:17:44,724 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/838-grandorf-rabbit-turkey-adult-cat-sterilized/
+2025-04-13 13:17:45,008 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/780-blitz-kitten/
+2025-04-13 13:17:45,230 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1396-kitten-turkey-wild-berries-dlya-kotyat-s-indejkoj-i-lesnymi-yagodami/
+2025-04-13 13:17:45,467 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/839-grandorf-4-meat-brown-rice-adult/
+2025-04-13 13:17:45,657 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1390-sterilized-cat-turkey-lingonberry-dlya-sterilizovannyx-koshek-indejka-s-brusnikoj/
+2025-04-13 13:17:45,887 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/840-grandorf-4-meat-brown-rice-sterilised/
+2025-04-13 13:17:46,079 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1391-sterilized-cat-duck-lingonberry-dlya-sterilizovannyx-koshek-utka-s-brusnikoj/
+2025-04-13 13:17:46,296 - INFO - Обработка страницы 4 из 4 для категории Сухой корм для кошек
+2025-04-13 13:17:46,297 - INFO - Обработка страницы категории: https://www.zveromir.ru/shop/suhoy_korm_dlya_koshek/page/4/
+2025-04-13 13:17:46,551 - INFO - Найдено 1 товаров на странице 4 категории
+2025-04-13 13:17:46,551 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/1393-sterilized-cat-max-dlya-krupnyx-sterilizovannyx-koshek-indejka-i-utka-s-brusnikoj/
+2025-04-13 13:17:46,761 - INFO - Обработка категории: https://www.zveromir.ru/shop/furminatori/
+2025-04-13 13:17:46,995 - INFO - Категория: Фурминаторы для собак, страниц: 1
+2025-04-13 13:17:46,995 - INFO - Обработка страницы 1 из 1 для категории Фурминаторы для собак
+2025-04-13 13:17:46,996 - INFO - Обработка страницы категории: https://www.zveromir.ru/shop/furminatori/
+2025-04-13 13:17:47,203 - INFO - Найдено 3 товаров на странице 1 категории
+2025-04-13 13:17:47,204 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/734-furminator-dlya-sobak-krupnyx-porod/
+2025-04-13 13:17:47,410 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/128-furminator-dlya-sobak-srednix-porod/
+2025-04-13 13:17:47,625 - INFO - Парсинг товара: https://www.zveromir.ru/shop/view/129-furminator-dlya-melkix-porod-sobak/
+2025-04-13 13:17:47,840 - INFO - Данные успешно сохранены в файл shop_data.json
+2025-04-13 13:17:47,842 - INFO - Работа парсера завершена. Следующий парсинг начнётся автоматически через 3 дней
